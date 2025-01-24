@@ -39,7 +39,7 @@ const Navbar = () => {
             </div>
             <div className="navbar-end">
                 {/* <LoginLink>Sign in</LoginLink> */}
-
+                <button>Login</button>
                 {/* <RegisterLink>Sign up</RegisterLink> */}
             </div>
         </div>
