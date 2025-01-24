@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Link from "next/link";
 // import { RegisterLink, LoginLink } from "@kinde-oss/kinde-auth-nextjs/components";
 
